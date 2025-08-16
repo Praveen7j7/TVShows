@@ -1,0 +1,7 @@
+.tab {
+  color: red !important;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: none;
+  border: blue 3px solid;
+}
